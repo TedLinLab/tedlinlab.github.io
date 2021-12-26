@@ -13,13 +13,13 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Ted Lin Lab"
     weight = 1
     contentDir = "content/en"
-  [languages.fr]
-    title = "Mon blogue"
+  [languages.zh-tw]
+    title = "復健工程研究室"
     weight = 2
-    contentDir = "content/fr"
+    contentDir = "content/zh-tw"
 
 [sitemap]
   changefreq = "monthly"
